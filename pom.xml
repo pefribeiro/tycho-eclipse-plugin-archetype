@@ -77,8 +77,8 @@
   </build>
   <distributionManagement>
     <repository>
-      <id>bintray</id>
-      <url>https://api.bintray.com/maven/open-archetypes/maven/tycho-eclipse-plugin-archetype</url>
+      <id>XP</id>
+      <url>file:///home/pedro/arch-types</url>
     </repository>
   </distributionManagement>
 </project>
