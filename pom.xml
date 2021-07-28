@@ -34,7 +34,7 @@
   <scm>
     <connection>scm:git:${project.scm.url}</connection>
     <developerConnection>scm:git:${project.scm.url}</developerConnection>
-    <url>https://github.com/open-archetypes/tycho-eclipse-plugin-archetype</url>
+    <url>ssh://github.com/pefribeiro/tycho-eclipse-plugin-archetype</url>
     <tag>v1.0.2</tag>
   </scm>
   <developers>
